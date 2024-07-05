@@ -1,2 +1,2 @@
 print("index.py")
-print("version-3")  
+print("version-mini_version")  
